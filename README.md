@@ -1,0 +1,1 @@
+Making a pizza involvs some simple steps of adding some ingredients on the pizza base and baking it.
